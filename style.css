@@ -122,7 +122,7 @@ body {
     outline: 0;
 }
 
-#right-section form fieldset input:invalid {
+#right-section form fieldset input:user-invalid {
     border: 1px solid red;
 }
 
